@@ -26,4 +26,4 @@ A ready-to-use e-commerce app wireframe built with **OMIA Studio**. These aren't
 
 Minimart is an e-commerce wireframe designed to give developers and product teams a head start. Use it as a foundation to build your own online store, adapt the layouts to your brand, and leverage OMIA Studio's AI-assisted tooling to ship faster.
 
-More designs across different use cases are coming — follow along and build with us.
+More designs across different use cases are coming.
