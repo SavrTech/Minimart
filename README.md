@@ -1,10 +1,17 @@
+
+
+
 # Minimart — E-Commerce App Wireframe
+
+https://github.com/user-attachments/assets/834e25f5-1f95-41ef-9272-a51502c43216
+
 
 A ready-to-use e-commerce app wireframe built with **OMIA Studio**. These aren't just static designs — they're functional layouts you can import, customize, and turn into cross-platform apps without starting from scratch.
 
 ## 🔗 Links
 
 - **Wireframe:** [View Wireframe](https://algure.github.io/1777315398183396_3526406341_1777877049830/)
+- **Exported ZIP** [Download](https://github.com/SavrTech/Minimart/releases/download/import/MiniMart.zip)
 - **Getting Started Guide:** [Migrating from OMIA Web to Local OMIA IDE](https://omia.pro/blog/migrating-from-omia-web-to-local-omia-ide.html)
 - **More Resources:** [OMIA Blog](https://omia.pro/blog.html)
 
